@@ -5,3 +5,7 @@
 .pub/
 
 build/
+android/.project
+android/.settings
+example/android/.project
+example/android/.settings
