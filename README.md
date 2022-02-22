@@ -22,7 +22,10 @@
 dependencies:
     ...
 
-  flutter_foreground_plugin: ^0.4.0
+   flutter_foreground_plugin:
+    git:
+      url: https://github.com/github-leanvay-com/flutter_foreground_service_plugin.git
+      ref: 22c2048d339bceafb1a4694e226cacee238a740c
 ```
 
 
