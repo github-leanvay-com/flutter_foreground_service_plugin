@@ -1,7 +1,8 @@
-## 0.7.1
+## 0.8.1
 
 - build.gradle: 'compileSdkVersion 31' to fix compile. (PendingIntent.FLAG_MUTABLE, Android 12) 
 
+## 0.8.0 for Flutter null safety
 
 ## 0.6.0
 
